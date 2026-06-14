@@ -41,8 +41,28 @@
     "category": "hostile",
     "subtitle": "subtitles.entity.ghast.ambient",
     "sounds": [
-      "mob/ghast/moan5", "mob/ghast/moan6", "mob/ghast/moan7", "mob/ghast/moan8",
+      "mob/ghast/moan5", "mob/ghast/moan6", "mob/ghast/moan7", "mob/ghast/moan8", "mob/ghast/moan9",
       "mob/ghast/scream4", "mob/ghast/scream5", "mob/ghast/scream6"
     ]
+  },
+  "bow_8000": {
+    "category": "players",
+    "subtitle": "subtitles.entity.arrow.shoot",
+    "sounds": ["random/bow1"]
+  },
+  "bow_11025": {
+    "category": "players",
+    "subtitle": "subtitles.entity.arrow.shoot",
+    "sounds": ["random/bow2"]
+  },
+  "bowhit_8000": {
+    "category": "players",
+    "subtitle": "subtitles.entity.arrow.hit",
+    "sounds": ["random/bowhit1", "random/bowhit2", "random/bowhit3", "random/bowhit4"]
+  },
+  "bowhit_11025": {
+    "category": "players",
+    "subtitle": "subtitles.entity.arrow.hit",
+    "sounds": ["random/bowhit5", "random/bowhit6", "random/bowhit7", "random/bowhit8"]
   }
 }
