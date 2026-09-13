@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "retro_edition",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "name": "Minecraft Retro Edition",
   "description": "Makes minecraft feel more retro by bitcrushing audio.",
   "authors": [
@@ -15,7 +15,7 @@
   },
   "mixins": [],
   "depends": {
-    "fabricloader": ">=0.16.2",
-    "minecraft": ">=26.1"
+    "fabricloader": ">=0.19.5",
+    "minecraft": ">=26.3"
   }
 }
